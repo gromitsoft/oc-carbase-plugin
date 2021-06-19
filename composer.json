@@ -1,0 +1,8 @@
+{
+    "name": "gromit/oc-carbase-plugin",
+    "type": "october-plugin",
+    "description": "Implements a database of cars and their characteristics",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
